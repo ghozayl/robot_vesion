@@ -14,7 +14,6 @@ python -m pip install mediapipe
 
 ```
 
-Then if you want to play around with our vision example detecting the face and hand you can run FaceHandDetect.py
-(You will need a semi powerful computer)
 
-I will also attatch the python script for robodk Prog2_vision.py
+
+I will also attatch the python script for robodk detect.py
